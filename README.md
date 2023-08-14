@@ -8,7 +8,7 @@ J'aime le développement d'application, l'environnement Linux et l'approche DevO
 <br>
 <h1 style="text-align:center">Langages de programmation</h1>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="50" style="padding: 0 20 0 20;"  alt="Langage C"></a></code>
-C#
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png" height="50" style="padding: 0 20 0 20;"  alt="Langage C#"></a></code>
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"></code>
 
