@@ -1,11 +1,8 @@
 </nav>
-<p style="text-align:center;font-weight:bold;font-size:30px">Bonjour, je suis Yassine BELLAGRAA 😀</p>
-Etudiant en deuxième année de Bachelor Universitaire de Technologie Informatique 
-(BUT Informatique).
-<br>
-<br>
+<p style="text-align:center;font-weight:bold;font-size:30px">Bonjour, je suis Yassine BELLAGRAA 👋</p>
+<p style="text-align:center;font-weight:bold;font-size:30px">Etudiant en deuxième année de BUT Informatique.</p>
 <div style="margin-right:25%;margin-left:35%">
-J'aime le développement d'application, l'environnement Linux et l'approche DevOps.
+J'aime les notions informatique, le développement d'application et l'environnement Linux.
 <br>
 <h1 style="text-align:center">Langages de programmation</h1>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="50" style="padding: 0 20 0 20;"  alt="Langage C"></a></code>
