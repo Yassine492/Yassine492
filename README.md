@@ -12,7 +12,7 @@ J'aime le développement d'application, l'environnement Linux et l'approche DevO
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"></code>
 
-<h1 style="text-align:center">Environnements de développement, éditeur de code</h1>
+<h1 style="text-align:center">Environnements de développement,<br> éditeurs de code</h1>
 <code><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter Notebook"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" height="50" style="padding: 0 20 0 20; alt="Android Studio"></code>
 <code><img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" height="50" style="padding: 0 20 0 20; alt="Eclipse"></code>
