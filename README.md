@@ -24,17 +24,20 @@ J'aime le développement d'application, l'environnement Linux et l'approche DevO
 
 <h1 style="text-align:center">Scripting</h1>
 <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="Bash"></code>
-Powershell
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell"></code>
+
 
 <h1 style="text-align:center">Balisage</h1>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="50" alt="Bash"></code>
-Mardown
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="50" alt="LaTeX"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" height="50" alt="Mardown"></code>
+
 
 <h1 style="text-align:center">Bases de données</h1>
 <code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgreSQL"></code>
 <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></code>
 <code><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB"></code>
-Cassandra 
+<code><img src="https://allvectorlogo.com/img/2017/02/microsoft-sql-server-logo.png" alt="SQL Server"></code>
+<code><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" alt="Cassandra"></code>
 
 <h1 style="text-align:center">Web</h1>
 <code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"></code>
@@ -46,24 +49,22 @@ Cassandra
 
 <h1 style="text-align:center">Administration de bases de données</h1>
 <code><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin"></code>
-SSMS
+<code><img src="https://www.ubackup.com/screenshot/en/others/ssms/smss-logo.png" alt="SQL Server Management Studio"></code>
 
 <h1 style="text-align:center">Virtualisation</h1>
 <code><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" alt="VirtualBox"></code>
-VMWare 
-Docker
+<code><img src="https://3almalt9nia.com/wp-content/uploads/2020/06/VMware-Workstation-Pro-15.jpg" alt="VMWare Workstation"></code>
+<code><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker Desktop"></code>
 
 <h1 style="text-align:center">Systèmes d'exploitation</h1>
 <code><img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" alt="Debian 10"></code>
 <code><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu"></code>
 <code><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Android"></code>
 <code><img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"></code>
-Windows
-Raspberri Pi
-
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" alt="Windows"></code>
+<code><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" alt="Raspberry Pi"></code>
 
 <h1 style="text-align:center">Frameworks</h2>
 <code><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap"></code>
 <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js"></code>
 <code><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vue.js"></code>
-
