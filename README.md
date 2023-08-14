@@ -1,6 +1,7 @@
 </nav>
 <p style="text-align:center;font-weight:bold;font-size:30px">Bonjour, je suis Yassine BELLAGRAA 😀</p>
-Etudiant en deuxième année de Bachelor Universitaire de Technologie Informatique (BUT Informatique).
+Etudiant en deuxième année de Bachelor Universitaire de Technologie Informatique 
+(BUT Informatique).
 <br>
 <br>
 <div style="margin-right:25%;margin-left:35%">
@@ -24,7 +25,7 @@ J'aime le développement d'application, l'environnement Linux et l'approche DevO
 
 <h1 style="text-align:center">Scripting</h1>
 <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="Bash"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" height="50"></code>
 
 
 <h1 style="text-align:center">Balisage</h1>
