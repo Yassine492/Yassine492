@@ -6,7 +6,7 @@
     <a href="README_es.md">Español</a>
 </p>
 
-Bonjour, je m'appelle Yassine.<br><br>Je suis en troisième année de BUT Informatique à l'Université Sorbonne Paris Nord
+Bonjour, je m'appelle Yassine.<br>Je suis en troisième année de BUT Informatique à l'Université Sorbonne Paris Nord
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://fr.linkedin.com/in/yassine-bellagraa)
  
