@@ -7,10 +7,8 @@
 </p>
   
 # 💫 About Me:
-Hello, I'm Yassine.<br><br>I'm in my third year in BSc in Computer Science at Université Sorbonne Paris Nord
+Bonjour, je m'appelle Yassine.<br><br>Je suis en troisième année de BUT Informatique à l'Université Sorbonne Paris Nord
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://fr.linkedin.com/in/yassine-bellagraa) 
 
 # 💻 Tech Stack:
