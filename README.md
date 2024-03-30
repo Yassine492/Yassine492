@@ -18,3 +18,6 @@ Hello, I'm Yassine.<br>I'm in my third year in BSc in Computer Science at Univer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassine492&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- https://github.com/PiyushSuthar/github-readme-quotes -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
